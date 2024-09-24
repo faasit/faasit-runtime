@@ -4,3 +4,4 @@
 [submodule "faasit-python-runtime"]
 	path = faasit-python-runtime
 	url = git@github.com:faasit/faasit-python-runtime.git
+	branch = dydy-dev
