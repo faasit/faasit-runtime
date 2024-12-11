@@ -1,8 +1,8 @@
 [submodule "faasit-javascript-runtime"]
 	path = faasit-javascript-runtime
-	url = git@github.com:faasit/faasit-javascript-runtime.git
+	url = https://github.com/faasit/faasit-javascript-runtime.git
 	ignore = dirty
 [submodule "faasit-python-runtime"]
 	path = faasit-python-runtime
-	url = git@github.com:faasit/faasit-python-runtime.git
+	url = https://github.com/faasit/faasit-python-runtime.git
 	ignore = dirty
